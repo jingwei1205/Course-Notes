@@ -1,2 +1,2 @@
 # Course-Notes
-it is a course learnder in university.there is some notes in it.
+it contains some courses which need to be noted or given a presentation
